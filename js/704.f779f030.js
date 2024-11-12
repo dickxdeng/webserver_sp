@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkCustomsPedia"]=self["webpackChunkCustomsPedia"]||[]).push([[704],{62704:function(e,t,u){u.r(t),u.d(t,{default:function(){return o}});var r=u(28694),s=(0,r.pM)({beforeRouteEnter(e,t,u){u((e=>{setTimeout((()=>{e.$router.replace(t)}),50)}))}});const n=s;var o=n}}]);
